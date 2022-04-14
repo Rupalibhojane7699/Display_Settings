@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Screen Orientation"
+        android:id="@+id/action_screen_orientation"/>
+    <item android:title="Brightness level"
+        android:id="@+id/action_screen_brightness"/>
+    <item android:title="Text Settings"
+        android:id="@+id/action_text_settings"/>
+    <item android:title="Theme Settins"
+        android:id="@+id/action_theme_settings"/>
+
+</menu>
